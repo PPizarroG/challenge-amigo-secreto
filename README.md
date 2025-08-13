@@ -14,3 +14,15 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón <stron
 
 <hr>
 
+<h1><strong>Funciones</strong></h1>
+
+<hr>
+
+<p>
+<ul><strong>Agregar nombres:</strong> Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".</ul>  
+
+
+
+
+  
+</p>
