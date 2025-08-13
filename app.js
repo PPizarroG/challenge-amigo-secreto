@@ -6,7 +6,7 @@ const resultadoUL = document.getElementById('resultado'); // lista donde mostrar
 //creamos nuestra función para agregar a un amigo
 function agregarAmigo() {
     const box = document.getElementById('amigo'); //Acá es dónde escribiremos el nombre de nuestro amigo
-    const nombre = box.value.trim();  //verifica lo que escribimos y con el trim() borraremos los espacios en blanco para asi no generar errores
+    const nombre = box.value.trim();  //verifica lo que escribimos y con el trim() borraremos los espacios en blanco para asi no generamos errores
 
     if (!nombre) {
         alert('Por favor ingresa un nombre.'); //Acá avisamos con un alert si no ingresamos un nombre.
@@ -50,7 +50,7 @@ function sortearAmigo() {
     const amigoSorteado = listaAmigos[indiceAleatorio];
 
     // mostramos el resultado
-    resultadoUL.innerHTML = `<li>Tu amigo secreto es: <strong>${amigoSorteado}</strong></li>`;
+    resultadoUL.innerHTML = `<li>Tu amigo secreto es: <strong>${amigoSorteado}</strong></li>`; //con el strong hacemos en negrita el nombre y llamamos nuestro amigo sorteado.
 }
 
 
