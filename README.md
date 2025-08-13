@@ -36,6 +36,8 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón <stron
 
 <p>
 <ul><strong>HTML:</strong> Para la estructura básica del sitio web. La información está contenida en la carpeta <strong>index.html</strong></ul>
-<ul><strong>CSS:</strong> Para el diseño y la disposición visual. Definimos el estilo y el diseño visual de la aplicación a través de la carpeta <strong>style.css</strong>/ul>
+
+<ul><strong>CSS:</strong> Para el diseño y la disposición visual. Definimos el estilo y el diseño visual de la aplicación a través de la carpeta <strong>style.css</strong></ul>
+
 <ul><strong>JavaScript:</strong> Para la lógica interactiva de la aplicación. Manejamos la funcionalidad de agregar amigos y sortear un amigo secreto a través del código de la carpeta <strong>app.js</strong></ul>
 </p>
