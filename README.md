@@ -19,9 +19,12 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón <stron
 <hr>
 
 <p>
-<ul><strong>Agregar nombres:</strong> Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".</ul>  
+<ul><strong>Agregar nombres:</strong> Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".</ul> 
+
 <ul><strong>Validar entrada:</strong> Si el campo de texto está vacío, nos mostrará una alerta pidiendo un nombre válido.</ul>
+
 <ul><strong>Visualizar la lista:</strong> Los nombres ingresados aparecerán en una lista debajo del campo de entrada.</ul>
+
 <ul><strong>Sorteo aleatorio:</strong> Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.</ul>
 </p>
 
